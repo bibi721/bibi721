@@ -55,3 +55,9 @@ Welcome to my GitHub profile!
 - **Repository**: [Bug Tracking System](https://github.com/bibi721/bug-tracking-system)  
 
 ---
+
+### 🌐 Let's Connect  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/ermiaskebede721/)  
+[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/ermias721)  
+
+---
