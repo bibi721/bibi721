@@ -1,4 +1,4 @@
-# Hi there, I'm **Ermiyas Kebede** 👋  
+⁹# Hi there, I'm **Ermiyas Kebede** 👋  
 Welcome to my GitHub profile!  
 
 ![Header Image](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20World!&fontSize=40)
@@ -37,10 +37,21 @@ Welcome to my GitHub profile!
 
 ---
 
-### 📈 My GitHub Stats  
+### 🛠️ Featured Projects  
 
-#### 🔥 Streak Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bibi721&theme=radical)  
+#### **1. Portfolio Website**  
+- **Description**: A responsive portfolio website showcasing my skills and projects.  
+- **Tech Stack**: HTML, CSS, JavaScript, React  
+- **Repository**: [Portfolio Website](https://github.com/bibi721/portfolio-website)  
 
-#### 📊 Contribution Graph  
-![GitHub Activity Graph](https://github-read
+#### **2. E-Commerce Platform**  
+- **Description**: A scalable e-commerce platform with a modern UI and integrated payment gateway.  
+- **Tech Stack**: Node.js, Express, MongoDB, React  
+- **Repository**: [E-Commerce Platform](https://github.com/bibi721/e-commerce-platform)  
+
+#### **3. Bug Tracking System**  
+- **Description**: An intuitive bug-tracking application to streamline QA processes.  
+- **Tech Stack**: Python, Django, Bootstrap  
+- **Repository**: [Bug Tracking System](https://github.com/bibi721/bug-tracking-system)  
+
+---
