@@ -1,4 +1,4 @@
-⁹# Hi there, I'm **Ermiyas Kebede** 👋  
+# Hi there, I'm **Ermiyas Kebede** 👋  
 Welcome to my GitHub profile!  
 
 ![Header Image](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20World!&fontSize=40)
