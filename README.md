@@ -5,7 +5,7 @@ Welcome to my GitHub profile!
 
 ---
 
-Hi, I'm Ermiyas—a passionate software tester and web developer who loves turning ideas into reliable digital solutions. I enjoy learning new technologies, collaborating with others, and solving meaningful problems through code.
+Hi, I'm Ermiyas a passionate software tester and web developer who loves turning ideas into reliable digital solutions. I enjoy learning new technologies, collaborating with others, and solving meaningful problems through code.
 
 ---
 
